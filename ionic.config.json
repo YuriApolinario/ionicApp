@@ -1,0 +1,7 @@
+{
+  "name": "meuAPPIonic",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
